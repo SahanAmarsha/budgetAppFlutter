@@ -9,7 +9,7 @@
  ### Flutter
  
  # Previews
- <img src="cooking.jpg" height="400" >
+ <img src="budget-app.jpg" height="400" >
 
  
  # License
